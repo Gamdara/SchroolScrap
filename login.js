@@ -2,8 +2,8 @@ import puppeteer from "puppeteer";
 import $ from "cheerio";
 
 const url = "https://kuliah.uajy.ac.id/login/index.php";
-const username = "200710735";
-const password = "Apakahini.1";
+const username = "username here";
+const password = "password here";
 const matkul = [];
 
 (async () => {
